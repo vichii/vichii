@@ -1,0 +1,8 @@
+main: vichii.diasmesp.Diasmesp
+version: 1.0.1
+name: Diasmesp
+api-version: 1.17
+
+commands: 
+  discord:
+    description: Devuelve el enlace al canal de discord del servidor
